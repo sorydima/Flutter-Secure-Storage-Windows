@@ -10,6 +10,6 @@ Add to pubspec.yaml
 dependency_overrides:
     flutter_secure_storage_windows:
         git:
-            url: https://gitlab.com/TheOneWithTheBraid/flutter_secure_storage_windows.git
+            url: https://github.com/sorydima/Flutter-Secure-Storage-Windows.git
             ref: main
 ```
